@@ -28,7 +28,7 @@ function items() {
     });
 
   return `
-    <h1>Listar Categorias</h1>
+    <h1>Listar Itens</h1>
 
     <div class="row">
       <div class="col-md-12">

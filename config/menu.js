@@ -37,7 +37,7 @@ const menu = [
         "subitems": [
           {
             "text": "Listar",
-            "path": "pedidos.html"
+            "path": "orders"
           },
           {
             "text": "Adicionar",
